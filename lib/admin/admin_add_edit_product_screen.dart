@@ -318,7 +318,7 @@ class _AdminAddEditProductScreenState extends State<AdminAddEditProductScreen> {
         border: Border.all(color: Colors.grey.shade300),
         borderRadius: BorderRadius.circular(14),
       ),
-      constraints: const BoxConstraints(maxHeight: 200),
+      constraints: const BoxConstraints(maxHeight: 250),
       child: ListView.builder(
         shrinkWrap: true,
         itemCount: _availableCategories.length,
