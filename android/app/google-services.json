@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "290787707045",
+    "project_id": "fir-auth-f346f",
+    "storage_bucket": "fir-auth-f346f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290787707045:android:f33eeb620431de155ea54c",
+        "android_client_info": {
+          "package_name": "com.example.sportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290787707045-cqgfge35beirg6oll90rpen86d1mvc5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportapp",
+            "certificate_hash": "fd0099c5e636c5ee899be6311ba39b58d85e318f"
+          }
+        },
+        {
+          "client_id": "290787707045-j6a0ajojjc9ke3i73hbi4accovvvu9t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCxKY2mYPHzkohOR0EInDUhcMEOjtmoI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290787707045-j6a0ajojjc9ke3i73hbi4accovvvu9t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290787707045:android:9d655d02603e87775ea54c",
+        "android_client_info": {
+          "package_name": "com.example.vd3_vuduchuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290787707045-j6a0ajojjc9ke3i73hbi4accovvvu9t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCxKY2mYPHzkohOR0EInDUhcMEOjtmoI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290787707045-j6a0ajojjc9ke3i73hbi4accovvvu9t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
